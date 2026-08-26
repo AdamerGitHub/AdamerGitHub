@@ -1,4 +1,4 @@
-Hi 👋
+Hi
 
 I Occasionally contribute to various tricky open source repositories that are engaging.
 
