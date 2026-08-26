@@ -29,7 +29,7 @@ I Occasionally contribute to various tricky open source repositories that are en
 </td>
 <td valign="top">
 
-[![](https://img.shields.io/badge/%235071-gmock_Python_tests_never_reached_CTest-1a7f37?style=flat&labelColor=1a1a1a)](https://github.com/google/googletest/pull/5071)
+[![](https://img.shields.io/badge/%235071-gmock_Python_CTest-1a7f37?style=flat&labelColor=1a1a1a)](https://github.com/google/googletest/pull/5071)
 
 </td>
 </tr>
@@ -43,7 +43,7 @@ I Occasionally contribute to various tricky open source repositories that are en
 </td>
 <td valign="top">
 
-[![](https://img.shields.io/badge/%23986-27_broken_Sphinx_param_directives-6f42c1?style=flat&labelColor=1a1a1a)](https://github.com/ClickHouse/clickhouse-connect/pull/986)
+[![](https://img.shields.io/badge/%23986-broken_Sphinx_directives-6f42c1?style=flat&labelColor=1a1a1a)](https://github.com/ClickHouse/clickhouse-connect/pull/986)
 
 </td>
 </tr>
@@ -57,7 +57,7 @@ I Occasionally contribute to various tricky open source repositories that are en
 </td>
 <td valign="top">
 
-[![](https://img.shields.io/badge/%231451-declare_the_dependency_actually_imported-6f42c1?style=flat&labelColor=1a1a1a)](https://github.com/aimclub/FEDOT/pull/1451)
+[![](https://img.shields.io/badge/%231451-imported_dependency-6f42c1?style=flat&labelColor=1a1a1a)](https://github.com/aimclub/FEDOT/pull/1451)
 
 </td>
 </tr>
